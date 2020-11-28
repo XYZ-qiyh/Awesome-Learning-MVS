@@ -36,9 +36,9 @@
 + Pyramid Multi-view Stereo Net with Self-adaptive View aggregation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732.pdf)] [[Github](https://github.com/yhw-yhw/PVAMVSNet)]
 + Dense Hybird Recurrent Multi-view Stereo Net with Dynamic Consistency Checking [[paper](https://deepai.org/publication/dense-hybrid-recurrent-multi-view-stereo-net-with-dynamic-consistency-checking)] [[Github](https://github.com/yhw-yhw/D2HC-RMVSNet)]
 
-#### BMVC2020
+;#### BMVC2020
 
-+ Visibility-aware Multi-view Stereo Network [paper] [Github]
+;+ Visibility-aware Multi-view Stereo Network [paper] [Github]
 
 #### To Be Continued
 
@@ -49,7 +49,7 @@
 + **DTU** [CVPR2014, IJCV2016]
   + Large-scale data for multiple-view stereopsis [paper] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)]
 
-+ **Tanks and Temples** [ToG2017]
++ **Tanks and Temples** [ACM ToG2017]
   + Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction  [[paper](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260bGJkdFBCemRLZGM)] [[supp](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260MGhQX0dCcmdHbFk)] [[website](https://www.tanksandtemples.org/)] [[Github](https://github.com/intel-isl/TanksAndTemples)]
 
 + **ETH3D** [CVPR2017]
