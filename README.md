@@ -36,18 +36,21 @@
 + Pyramid Multi-view Stereo Net with Self-adaptive View aggregation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732.pdf)] [[Github](https://github.com/yhw-yhw/PVAMVSNet)]
 + Dense Hybird Recurrent Multi-view Stereo Net with Dynamic Consistency Checking [[paper](https://deepai.org/publication/dense-hybrid-recurrent-multi-view-stereo-net-with-dynamic-consistency-checking)] [[Github](https://github.com/yhw-yhw/D2HC-RMVSNet)]
 
-<!--
+
 
 #### BMVC2020
 
-+ Visibility-aware Multi-view Stereo Network [paper] [Github]
-
++ Visibility-aware Multi-view Stereo Network [[paper](https://arxiv.org/abs/2008.07928)] [[Github](https://github.com/jzhangbs/Vis-MVSNet)]
+<!--
+#### ArXiv
++ PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
++ PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[code](https://github.com/FangjinhuaWang/PatchmatchNet)]
 -->
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[ArXiv](https://arxiv.org/abs/2006.02535)]
 
-#### To Be Continued
+#### To Be Continued...
 
 
 
