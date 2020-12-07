@@ -41,11 +41,11 @@
 #### BMVC2020
 
 + Visibility-aware Multi-view Stereo Network [[paper](https://arxiv.org/abs/2008.07928)] [[Github](https://github.com/jzhangbs/Vis-MVSNet)]
-<!--
+
 #### ArXiv
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
-+ PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[code](https://github.com/FangjinhuaWang/PatchmatchNet)]
--->
++ PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[Github](https://github.com/FangjinhuaWang/PatchmatchNet)]
+<!---->
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[ArXiv](https://arxiv.org/abs/2006.02535)]
