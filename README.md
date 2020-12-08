@@ -48,7 +48,7 @@
 <!---->
 
 #### Survey Paper
-+ A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[ArXiv](https://arxiv.org/abs/2006.02535)]
++ A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
 
 #### To Be Continued...
 
@@ -57,7 +57,7 @@
 ### Multi-view Stereo Benchmark
 
 + **DTU** [CVPR2014, IJCV2016]
-  + Large-scale data for multiple-view stereopsis [[paper](https://github.com/Todd-Qi/Awesome-Learning-MVS/blob/main/datasets/DTU_Large_scale_data_for_multiple_view_stereopsis.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)]
+  + Large-scale data for multiple-view stereopsis [[paper](https://github.com/Todd-Qi/Awesome-Learning-MVS/blob/main/datasets/DTU_Large_scale_data_for_multiple_view_stereopsis.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
 
 + **Tanks and Temples** [ACM ToG2017]
   + Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction  [[paper](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260bGJkdFBCemRLZGM)] [[supp](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260MGhQX0dCcmdHbFk)] [[website](https://www.tanksandtemples.org/)] [[Github](https://github.com/intel-isl/TanksAndTemples)]
