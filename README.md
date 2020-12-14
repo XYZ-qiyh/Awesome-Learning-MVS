@@ -45,7 +45,6 @@
 #### ArXiv
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
 + PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[Github](https://github.com/FangjinhuaWang/PatchmatchNet)]
-<!---->
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
@@ -55,6 +54,17 @@
 
 
 ### Multi-view Stereo Benchmark
+
+<!--
+
++ **Middlebury** [CVPR06']
+  + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [paper]
+
++ **EPFL** [CVPR08']
+  + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [paper]
+
+-->
+
 
 + **DTU** [CVPR2014, IJCV2016]
   + Large-scale data for multiple-view stereopsis [[paper](https://github.com/Todd-Qi/Awesome-Learning-MVS/blob/main/datasets/DTU_Large_scale_data_for_multiple_view_stereopsis.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
