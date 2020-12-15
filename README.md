@@ -55,16 +55,13 @@
 
 ### Multi-view Stereo Benchmark
 
-<!--
 
 + **Middlebury** [CVPR06']
-  + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [paper]
+  + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
 
 + **EPFL** [CVPR08']
-  + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [paper]
-
--->
-
+  + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[paper](https://infoscience.epfl.ch/record/126393)]
+<!--  [Strecha] [Fountain] -->
 
 + **DTU** [CVPR2014, IJCV2016]
   + Large-scale data for multiple-view stereopsis [[paper](https://github.com/Todd-Qi/Awesome-Learning-MVS/blob/main/datasets/DTU_Large_scale_data_for_multiple_view_stereopsis.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
