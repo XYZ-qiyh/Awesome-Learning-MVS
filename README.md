@@ -37,7 +37,6 @@
 + Dense Hybird Recurrent Multi-view Stereo Net with Dynamic Consistency Checking [[paper](https://deepai.org/publication/dense-hybrid-recurrent-multi-view-stereo-net-with-dynamic-consistency-checking)] [[Github](https://github.com/yhw-yhw/D2HC-RMVSNet)]
 
 
-
 #### BMVC2020
 
 + Visibility-aware Multi-view Stereo Network [[paper](https://arxiv.org/abs/2008.07928)] [[Github](https://github.com/jzhangbs/Vis-MVSNet)]
@@ -51,10 +50,13 @@
 
 #### To Be Continued...
 
+### Volumetric Methods
+
++ **SurfaceNet** [ICCV2017]
+  + SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[Github](https://github.com/mjiUST/SurfaceNet)] [[T-PAMI](https://ieeexplore.ieee.org/document/9099504)]
 
 
 ### Multi-view Stereo Benchmark
-
 
 + **Middlebury** [CVPR06']
   + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
