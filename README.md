@@ -85,6 +85,7 @@
 
 + Western Style Architectures
   + https://colmap.github.io/datasets.html, provided by [COLMAP](https://colmap.github.io/).
+  + [ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle), provided by [OpenMVG](https://github.com/openMVG).
   
 
 
