@@ -50,11 +50,12 @@
 
 #### To Be Continued...
 
+<!--
 ### Volumetric Methods
 
 + **SurfaceNet** [ICCV2017]
   + SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[Github](https://github.com/mjiUST/SurfaceNet)] [[T-PAMI](https://ieeexplore.ieee.org/document/9099504)]
-
+-->
 
 ### Multi-view Stereo Benchmark
 
@@ -77,13 +78,13 @@
 + **BlendedMVS** [CVPR2020]
   + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)]
 
-<!---->
+
 ### Large-scale Real World Scenes
 + Chinese Style Architectures
-  + http://vision.ia.ac.cn/zh/data/index.html
+  + http://vision.ia.ac.cn/zh/data/index.html Provided by [CASIA](http://www.ia.cas.cn/)
 
-+ Provided by COLMAP
-  + https://colmap.github.io/datasets.html
++ Western Style Architectures
+  + https://colmap.github.io/datasets.html Provided by [COLMAP](https://colmap.github.io/)
   
 
 
