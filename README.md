@@ -79,12 +79,12 @@
   + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)]
 
 
-### Large-scale Real World Scenes
+### Large-scale Real-world Scenes
 + Chinese Style Architectures
-  + http://vision.ia.ac.cn/zh/data/index.html Provided by [CASIA](http://www.ia.cas.cn/)
+  + http://vision.ia.ac.cn/zh/data/index.html, provided by [CASIA](http://www.ia.cas.cn/).
 
 + Western Style Architectures
-  + https://colmap.github.io/datasets.html Provided by [COLMAP](https://colmap.github.io/)
+  + https://colmap.github.io/datasets.html, provided by [COLMAP](https://colmap.github.io/).
   
 
 
