@@ -1,6 +1,16 @@
-# Awesome-Learning-MVS
+## Awesome-Learning-MVS (Methods and Datasets)
 
-### Learning-based Multi-view Stereo Methods
+### Content of this repo
+1. [Learning based MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/MVS)
+2. [Learning based Multi-view depth estimation](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/MVDepth)
+3. [Unsupervised Learning MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/Unsupervised)
+
+### Learning-based MVS Methods
+1. Volumetric methods (SurfaceNet)
+2. Depthmap based methods (MVSNet/R-MVSNet and so on)
+
+#### ICCV2017
+  + SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[Github](https://github.com/mjiUST/SurfaceNet)] [[T-PAMI](https://ieeexplore.ieee.org/document/9099504)]
 
 #### ECCV2018
 
@@ -31,6 +41,9 @@
 
 + Attention-Aware Multi-View Stereo [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Attention-Aware_Multi-View_Stereo_CVPR_2020_paper.pdf)]
 
++ A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-view Stereo Reconstruction from An Open Aerial Dataset [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf)] [[Github](https://github.com/gpcv-liujin/REDNet)] [[data](http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html)]
+
+
 #### ECCV2020
 
 + Pyramid Multi-view Stereo Net with Self-adaptive View aggregation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732.pdf)] [[Github](https://github.com/yhw-yhw/PVAMVSNet)]
@@ -38,7 +51,6 @@
 
 
 #### BMVC2020
-
 + Visibility-aware Multi-view Stereo Network [[paper](https://arxiv.org/abs/2008.07928)] [[Github](https://github.com/jzhangbs/Vis-MVSNet)]
 
 #### ArXiv
@@ -50,20 +62,16 @@
 
 #### To Be Continued...
 
-<!--
-### Volumetric Methods
-+ **SurfaceNet** [ICCV2017]
-  + SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[Github](https://github.com/mjiUST/SurfaceNet)] [[T-PAMI](https://ieeexplore.ieee.org/document/9099504)]
--->
 
 ### Multi-view Stereo Benchmark
-
+<!--  
 + **Middlebury** [CVPR06']
   + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
 
 + **EPFL** [CVPR08']
   + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[paper](https://infoscience.epfl.ch/record/126393)]
-<!--  [Strecha] [Fountain] -->
+[Strecha] [Fountain]
+-->
 
 + **DTU** [CVPR2014, IJCV2016]
   + Large-scale data for multiple-view stereopsis [[paper](https://github.com/Todd-Qi/Awesome-Learning-MVS/blob/main/datasets/DTU_Large_scale_data_for_multiple_view_stereopsis.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
@@ -79,13 +87,14 @@
 
 
 ### Large-scale Real-world Scenes
-+ Chinese Style Architectures
-  + http://vision.ia.ac.cn/zh/data/index.html, provided by [CASIA](http://www.ia.cas.cn/).
+1. Chinese Style Architectures
+  + http://vision.ia.ac.cn/zh/data/index.html, provided by CASIA.
 
-+ Western Style Architectures
+2. Western Style Architectures
   + https://colmap.github.io/datasets.html, provided by [COLMAP](https://colmap.github.io/).
   + [ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle), provided by [OpenMVG](https://github.com/openMVG).
   
-
+3. Aerial Dataset
+  + http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html, provided by WHU.
 
 
