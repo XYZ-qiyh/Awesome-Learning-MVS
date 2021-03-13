@@ -56,9 +56,11 @@
 #### WACV2021
 + Long-range Attention Network for Multi-View Stereo [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Long-Range_Attention_Network_for_Multi-View_Stereo_WACV_2021_paper.pdf)]
 
+#### CVPR2021
++ PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[Github](https://github.com/FangjinhuaWang/PatchmatchNet)]
+
 #### ArXiv Paper
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
-+ PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[Github](https://github.com/FangjinhuaWang/PatchmatchNet)]
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
