@@ -103,3 +103,8 @@
   + http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html, provided by WHU.
 
 Welcome to contribute to this Repo!
+
+<!--
+Multi-view stereo for face recon
+[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bai_Deep_Facial_Non-Rigid_Multi-View_Stereo_CVPR_2020_paper.pdf) && [Github](https://github.com/zqbai-jeremy/DFNRMVS)
+--->
