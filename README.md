@@ -61,6 +61,7 @@
 
 #### ArXiv Paper
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
++ DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
