@@ -3,7 +3,7 @@
 ### Content of this repo
 1. [Learning based MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/MVS)
 2. [Learning based Multi-view depth estimation](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/MVDepth)
-3. [Unsupervised Learning MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/Unsupervised)
+3. [Unsupervised Learning MVS]([Unsupervised Multi-View Stereo — An Emerging Trend | by Marco Orsingher | Analytics Vidhya | Apr, 2021 | Medium](https://medium.com/analytics-vidhya/unsupervised-multi-view-stereo-an-emerging-trend-4d3034e23e9e))
 
 ### Learning-based MVS Methods
 1. Volumetric methods (SurfaceNet)
@@ -59,6 +59,12 @@
 #### CVPR2021
 + PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[Github](https://github.com/FangjinhuaWang/PatchmatchNet)]
 
+#### Journal Paper
+
++ MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo [[paper]([MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9115828))]
++ HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images [[paper]([[HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9319163))]
++ Attention aware cost volume pyramid based multi-view stereo network for 3D reconstruction [[paper]([Attention aware cost volume pyramid based multi-view stereo network for 3D reconstruction - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0924271621000794)))] [[Github]([ArthasMil/AACVP-MVSNet: The code for AACVP-MVSNet (github.com)](https://github.com/ArthasMil/AACVP-MVSNet))]
+
 #### ArXiv Paper
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
@@ -99,7 +105,7 @@
 2. Western Style Architectures
   + https://colmap.github.io/datasets.html, provided by COLMAP.
   + [ImageDataset_SceauxCastle](https://github.com/openMVG/ImageDataset_SceauxCastle), provided by OpenMVG.
-  
+
 3. Aerial Dataset
   + http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html, provided by WHU.
 
