@@ -63,14 +63,14 @@
 
 + MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo [[paper](https://ieeexplore.ieee.org/document/9115828)]
 + HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images [[paper](https://ieeexplore.ieee.org/document/9319163)]
-+ Attention aware cost volume pyramid based multi-view stereo network for 3D reconstruction [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
++ AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
+
+#### Survey Paper
++ A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
 
 #### ArXiv Paper
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
-
-#### Survey Paper
-+ A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
 
 #### To Be Continued...
 
