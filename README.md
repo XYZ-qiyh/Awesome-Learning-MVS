@@ -3,7 +3,7 @@
 ### Content of this repo
 1. [Learning based MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/MVS)
 2. [Learning based Multi-view depth estimation](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/MVDepth)
-3. [Unsupervised Learning MVS]([Unsupervised Multi-View Stereo — An Emerging Trend | by Marco Orsingher | Analytics Vidhya | Apr, 2021 | Medium](https://medium.com/analytics-vidhya/unsupervised-multi-view-stereo-an-emerging-trend-4d3034e23e9e))
+3. [Unsupervised Learning MVS](https://medium.com/analytics-vidhya/unsupervised-multi-view-stereo-an-emerging-trend-4d3034e23e9e)
 
 ### Learning-based MVS Methods
 1. Volumetric methods (SurfaceNet)
@@ -61,9 +61,9 @@
 
 #### Journal Paper
 
-+ MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo [[paper]([MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9115828))]
-+ HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images [[paper]([[HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9319163))]
-+ Attention aware cost volume pyramid based multi-view stereo network for 3D reconstruction [[paper]([Attention aware cost volume pyramid based multi-view stereo network for 3D reconstruction - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0924271621000794)))] [[Github]([ArthasMil/AACVP-MVSNet: The code for AACVP-MVSNet (github.com)](https://github.com/ArthasMil/AACVP-MVSNet))]
++ MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo [[paper](https://ieeexplore.ieee.org/document/9115828)]
++ HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images [[paper](https://ieeexplore.ieee.org/document/9319163)]
++ Attention aware cost volume pyramid based multi-view stereo network for 3D reconstruction [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
 
 #### ArXiv Paper
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
