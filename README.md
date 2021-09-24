@@ -59,6 +59,9 @@
 #### CVPR2021
 + PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[Github](https://github.com/FangjinhuaWang/PatchmatchNet)]
 
+#### ICCV2021
++ AA-RMVSNet: Adaptive Aggregation Recurrent Multi-view Stereo Network [[paper](https://arxiv.org/abs/2108.03824)] [[Github](https://github.com/QT-Zhu/AA-RMVSNet)]
+
 #### Journal Paper
 
 + MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo [[paper](https://ieeexplore.ieee.org/document/9115828)]
@@ -67,6 +70,7 @@
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
++ Deep Learning for Multi-view Stereo via Plane Sweep: A Survey [[paper](https://arxiv.org/abs/2106.15328)]
 
 #### ArXiv Paper
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
