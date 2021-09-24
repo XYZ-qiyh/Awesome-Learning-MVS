@@ -93,7 +93,7 @@
   + Large-scale data for multiple-view stereopsis [[paper](https://github.com/Todd-Qi/Awesome-Learning-MVS/blob/main/datasets/DTU_Large_scale_data_for_multiple_view_stereopsis.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
 
 + **Tanks and Temples** [ACM ToG2017]
-  + Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction  [[paper](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260bGJkdFBCemRLZGM)] [[supp](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260MGhQX0dCcmdHbFk)] [[website](https://www.tanksandtemples.org/)] [[Github](https://github.com/intel-isl/TanksAndTemples)]
+  + Tanks and Temples: Benchmarking Large-Scale Scene Reconstruction  [[paper](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260bGJkdFBCemRLZGM)] [[supp](https://docs.google.com/uc?export=download&id=0B-ePgl6HF260MGhQX0dCcmdHbFk)] [[website](https://www.tanksandtemples.org/)] [[Github](https://github.com/intel-isl/TanksAndTemples)] [[leaderboard](https://www.tanksandtemples.org/leaderboard/)]
 
 + **ETH3D** [CVPR2017]
   + A Multi-View Stereo Benchmark with High-Resolution Images and Multi-Camera Videos [[paper](https://www.eth3d.net/data/schoeps2017cvpr.pdf)] [[supp](https://www.eth3d.net/data/schoeps2017cvpr-supp.pdf)] [[website](https://www.eth3d.net/)] [[Github](https://github.com/ETH3D)]
