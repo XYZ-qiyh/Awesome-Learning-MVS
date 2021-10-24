@@ -60,13 +60,15 @@
 + PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[Github](https://github.com/FangjinhuaWang/PatchmatchNet)]
 
 #### ICCV2021
-+ AA-RMVSNet: Adaptive Aggregation Recurrent Multi-view Stereo Network [[paper](https://arxiv.org/abs/2108.03824)] [[Github](https://github.com/QT-Zhu/AA-RMVSNet)]
++ AA-RMVSNet: Adaptive Aggregation Recurrent Multi-view Stereo Network [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wei_AA-RMVSNet_Adaptive_Aggregation_ICCV_2021_supplemental.pdf)] [[Github](https://github.com/QT-Zhu/AA-RMVSNet)]
++ EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)] [[Github](https://github.com/Ascend/mindspore/tree/master/model_zoo/research/cv/eppmvsnet)]
++ Just a Few Points are All You Need for Multi-view Stereo: A Novel Semi-supervised Learning Method for Multi-view Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Just_a_Few_Points_Are_All_You_Need_for_Multi-View_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_Just_a_Few_ICCV_2021_supplemental.pdf)]
 
 #### Journal Paper
 
-+ MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo [[paper](https://ieeexplore.ieee.org/document/9115828)]
-+ HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images [[paper](https://ieeexplore.ieee.org/document/9319163)]
-+ AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
++ MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo. IEEE TIP [[paper](https://ieeexplore.ieee.org/document/9115828)]
++ HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images. IEEE Access [[paper](https://ieeexplore.ieee.org/document/9319163)]
++ AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
