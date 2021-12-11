@@ -21,5 +21,8 @@
 #### ArXiv Paper
 + Deep Multi-View Stereo gone wild, ArXiv 2104.15119 [[Project](https://imagine.enpc.fr/~darmonf/wild_deep_mvs/)] [[Github](https://github.com/fdarmon/wild_deep_mvs)]
 
+#### Blog
+Unsupervised Multi-View Stereo — An Emerging Trend [[Link](https://medium.com/analytics-vidhya/unsupervised-multi-view-stereo-an-emerging-trend-4d3034e23e9e)]
+
 ### Semi-Supervised Methods
 + TODO
