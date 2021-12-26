@@ -1,10 +1,5 @@
 ## Awesome-Learning-MVS (Methods and Datasets)
 
-### Content of this repo
-1. [Learning based MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/MVS)
-2. [Learning based Multi-view depth estimation](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/MVDepth)
-3. [Unsupervised Learning MVS](https://medium.com/analytics-vidhya/unsupervised-multi-view-stereo-an-emerging-trend-4d3034e23e9e)
-
 ### Learning-based MVS Methods
 1. Volumetric methods (SurfaceNet)
 2. Depthmap based methods (MVSNet/R-MVSNet and so on)
