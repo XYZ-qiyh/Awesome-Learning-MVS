@@ -1,6 +1,6 @@
 ## Unsupervised Learning MVS
 
-#### CVPR2019 Workshop
+#### CVPRW 2019
 + Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency [[Project](https://tejaskhot.github.io/unsup_mvs/)] [[paper](https://tejaskhot.github.io/unsup_mvs/)] [[Github](https://github.com/tejaskhot/unsup_mvs)] (Central idea: a warping-based view synthesis loss, use the estimated depth map for image synthesis.)
 
 #### 3DV 2019
@@ -40,3 +40,17 @@ Unsupervised Multi-View Stereo — An Emerging Trend [[Link](https://medium.com/
 + Unsupervised Learning of Stereo Matching: in an iterative manner using Left-Right consistency Check
 
 -->
+
+
+
+#### DTU Dataset Performance
+
+|    Methods    | Acc.  | Comp. | Overall |
+| :-----------: | :---: | :---: | :-----: |
+|   Unsup_MVS   | 0.881 | 1.073 |  0.977  |
+|     MVS^2     | 0.760 | 0.515 |  0.637  |
+|    M3VSNet    | 0.636 | 0.531 |  0.583  |
+|     JDACS     | 0.571 | 0.515 |  0.543  |
+|     U-MVS     | 0.470 | 0.430 |  0.450  |
+| MVSNet (sup.) | 0.396 | 0.527 |  0.462  |
+
