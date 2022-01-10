@@ -43,14 +43,15 @@ Unsupervised Multi-View Stereo — An Emerging Trend [[Link](https://medium.com/
 
 
 
-#### DTU Dataset Performance
+#### Benchmark Performance
 
-|    Methods    | Acc.  | Comp. | Overall |
-| :-----------: | :---: | :---: | :-----: |
-|   Unsup_MVS   | 0.881 | 1.073 |  0.977  |
-|     MVS^2     | 0.760 | 0.515 |  0.637  |
-|    M3VSNet    | 0.636 | 0.531 |  0.583  |
-|     JDACS     | 0.571 | 0.515 |  0.543  |
-|     U-MVS     | 0.470 | 0.430 |  0.450  |
-| MVSNet (sup.) | 0.396 | 0.527 |  0.462  |
+|    Methods    | Acc.  | Comp. | Overall | TnT@f-score |
+| :-----------: | :---: | :---: | :-----: | :---------: |
+|   Unsup_MVS   | 0.881 | 1.073 |  0.977  |      —      |
+|     MVS^2     | 0.760 | 0.515 |  0.637  |    37.21    |
+|    M3VSNet    | 0.636 | 0.531 |  0.583  |    37.67    |
+|     JDACS     | 0.571 | 0.515 |  0.543  |    45.48    |
+|     U-MVS     | 0.470 | 0.430 |  0.450  |      —      |
+| MVSNet (Sup.) | 0.396 | 0.527 |  0.462  |    43.48    |
+| COLMAP(Geo.)  | 0.401 | 0.661 |  0.531  |    42.14    |
 
