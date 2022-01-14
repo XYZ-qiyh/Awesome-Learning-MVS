@@ -18,7 +18,7 @@
 #### ICCV2021
 + Digging into Uncertainty in Self-supervised Multi-view Stereo [[Github](https://github.com/ToughStoneX/U-MVS)] [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Digging_Into_Uncertainty_ICCV_2021_supplemental.pdf)]
 
-#### ArXiv Paper
+#### 3DV 2021
 + Deep Multi-View Stereo gone wild, ArXiv 2104.15119 [[Project](https://imagine.enpc.fr/~darmonf/wild_deep_mvs/)] [[Github](https://github.com/fdarmon/wild_deep_mvs)]
 
 #### Blog
@@ -45,7 +45,7 @@ Unsupervised Multi-View Stereo — An Emerging Trend [[Link](https://medium.com/
 
 #### Benchmark Performance
 
-|    Methods    | Acc.  | Comp. | Overall | TnT@f-score |
+|    Methods    | Acc. ↓  | Comp. ↓ | Overall ↓ | TnT@f-score ↑ |
 | :-----------: | :---: | :---: | :-----: | :---------: |
 |   Unsup_MVS   | 0.881 | 1.073 |  0.977  |      —      |
 |     MVS^2     | 0.760 | 0.515 |  0.637  |    37.21    |
