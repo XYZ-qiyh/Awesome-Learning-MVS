@@ -60,6 +60,9 @@
 + EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)] [[Github](https://github.com/Ascend/mindspore/tree/master/model_zoo/research/cv/eppmvsnet)]
 + Just a Few Points are All You Need for Multi-view Stereo: A Novel Semi-supervised Learning Method for Multi-view Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Just_a_Few_Points_Are_All_You_Need_for_Multi-View_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_Just_a_Few_ICCV_2021_supplemental.pdf)]
 
+#### 3DV 2021
++ Deep Multi-View Stereo gone wild. [[paper](https://arxiv.org/abs/2104.15119v1)]  [[Project](https://imagine.enpc.fr/~darmonf/wild_deep_mvs/)] [[Github](https://github.com/fdarmon/wild_deep_mvs)]
+
 #### Journal Paper
 
 + MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo. IEEE TIP [[paper](https://ieeexplore.ieee.org/document/9115828)]
