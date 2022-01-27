@@ -105,6 +105,9 @@
 + **BlendedMVS** [CVPR2020]
   + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)]
 
++ **GigaMVS** [T-PAMI2021]
+  +  GigaMVS: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction [[paper](https://ieeexplore.ieee.org/document/9547729)] [[website](http://www.gigamvs.com/)]
+
 
 ### Large-scale Real-world Scenes
 1. Chinese Style Architectures
