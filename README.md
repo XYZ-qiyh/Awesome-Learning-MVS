@@ -6,6 +6,10 @@
 #### 3DV 2019
 + MVS2: Deep Unsupervised Multi-view Stereo with Multi-View Symmetry [[paper](https://ieeexplore.ieee.org/document/8885975)]
 
+#### BMVC 2020
++ Learning to Adapt Multi-View Stereo by Self-Supervision [[paper](https://arxiv.org/abs/2009.13278)] (Central idea: Meta Learning for Self-supervised Multi-View Stereo)
+
+
 #### ICIP 2021
 + M3VSNet: Unsupervised multi-metric multi-view stereo network [[paper](https://ieeexplore.ieee.org/abstract/document/9506469)] [[Github](https://github.com/whubaichuan/M3VSNet)]
 
