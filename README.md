@@ -79,6 +79,8 @@
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 + Non-local Recurrent Regularization Networks for Multi-view Stereo [[paper](https://arxiv.org/abs/2110.06436)]
 + TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers [[paper](https://arxiv.org/abs/2111.14600)]  [[Github](https://github.com/MegviiRobot/TransMVSNet)]
++ Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss [[paper](https://arxiv.org/abs/2201.01501)] [[Github](https://github.com/prstrive/UniMVSNet)]
+
 
 #### To Be Continued...
 
