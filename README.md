@@ -6,6 +6,7 @@
 
 #### ICCV2017
   + SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[Github](https://github.com/mjiUST/SurfaceNet)] [[T-PAMI](https://ieeexplore.ieee.org/document/9099504)]
+  + Learning a Multi-View Stereo Machine [[paper](https://papers.nips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf)] (LSMs can produce two kinds of outputs - voxel occupancy grids decoded from 3D Grid or per-view depth maps decoded after a projection operation.)
   + Learned Multi-Patch Similarity [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Hartmann_Learned_Multi-Patch_Similarity_ICCV_2017_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Hartmann_Learned_Multi-Patch_Similarity_ICCV_2017_supplemental.pdf)] (Note: Learning to measure multi-image patch similiarity, NOT end-to-end learning MVS pipeline)
 
 #### ECCV2018
