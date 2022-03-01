@@ -11,6 +11,9 @@
   + Learning a Multi-View Stereo Machine [[paper](https://papers.nips.cc/paper/2017/file/9c838d2e45b2ad1094d42f4ef36764f6-Paper.pdf)] (LSMs can produce two kinds of outputs - voxel occupancy grids decoded from 3D Grid or per-view depth maps decoded after a projection operation.)
   + Learned Multi-Patch Similarity [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Hartmann_Learned_Multi-Patch_Similarity_ICCV_2017_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Hartmann_Learned_Multi-Patch_Similarity_ICCV_2017_supplemental.pdf)] (Note: Learning to measure multi-image patch similiarity, NOT end-to-end learning MVS pipeline)
 
+#### CVPR2018
++ DeepMVS: Learning Multi-view Stereopsis [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_DeepMVS_Learning_Multi-View_CVPR_2018_paper.pdf)] [[project](https://phuang17.github.io/DeepMVS/index.html)]
+
 #### ECCV2018
 
 + MVSNet: Depth Inference for Unstructured Multi-view Stereo [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf)] [[supp](https://yoyo000.github.io/papers/yao2018mvsnet_supp.pdf)] [[Github](https://github.com/YoYo000/MVSNet)]
