@@ -69,6 +69,10 @@
 #### 3DV 2021
 + Deep Multi-View Stereo gone wild. [[paper](https://arxiv.org/abs/2104.15119v2)]  [[Project](https://imagine.enpc.fr/~darmonf/wild_deep_mvs/)] [[Github](https://github.com/fdarmon/wild_deep_mvs)]
 
+#### CVPR 2022
++ Generalized Binary Search Network for Highly-Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2112.02338)] [[Github](https://github.com/MiZhenxing/GBi-Net)]
++ Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss [[paper](https://arxiv.org/abs/2201.01501)] [[Github](https://github.com/prstrive/UniMVSNet)]
+
 #### Journal Paper
 
 + MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo. IEEE TIP [[paper](https://ieeexplore.ieee.org/document/9115828)]
@@ -85,7 +89,6 @@
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 + Non-local Recurrent Regularization Networks for Multi-view Stereo [[paper](https://arxiv.org/abs/2110.06436)]
 + TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers [[paper](https://arxiv.org/abs/2111.14600)]  [[Github](https://github.com/MegviiRobot/TransMVSNet)]
-+ Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss [[paper](https://arxiv.org/abs/2201.01501)] [[Github](https://github.com/prstrive/UniMVSNet)]
 
 
 #### To Be Continued...
