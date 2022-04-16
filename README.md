@@ -75,6 +75,8 @@
 #### CVPR 2022
 + Generalized Binary Search Network for Highly-Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2112.02338)] [[Github](https://github.com/MiZhenxing/GBi-Net)]
 + Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss [[paper](https://arxiv.org/abs/2201.01501)] [[Github](https://github.com/prstrive/UniMVSNet)]
++ IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2112.05126)] [[Github](https://github.com/FangjinhuaWang/IterMVS)]
++ MVS2D: Efficient Multi-view Stereo via Attention-Driven 2D Convolutions [[paper](https://arxiv.org/abs/2104.13325)] [[Github](https://github.com/zhenpeiyang/MVS2D)]
 
 #### Journal Paper
 
@@ -94,18 +96,15 @@
 + TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers [[paper](https://arxiv.org/abs/2111.14600)]  [[Github](https://github.com/MegviiRobot/TransMVSNet)]
 
 
-#### To Be Continued...
-
 
 ### Multi-view Stereo Benchmark
-<!--  
+
 + **Middlebury** [CVPR06']
   + A Comparison and Evaluation of Multi-View Stereo Reconstruction Algorithms [[paper](https://vision.middlebury.edu/mview/seitz_mview_cvpr06.pdf)] [[website](https://vision.middlebury.edu/mview/)]
 
 + **EPFL** [CVPR08']
   + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[paper](https://infoscience.epfl.ch/record/126393)]
-[Strecha] [Fountain]
--->
+ <!-- [Strecha] [Fountain] -->
 
 + **DTU** [CVPR2014, IJCV2016]
   + Large-scale data for multiple-view stereopsis [paper: [CVPR2014](https://roboimagedata2.compute.dtu.dk/data/text/multiViewCVPR2014.pdf), [IJCV2016](https://link.springer.com/content/pdf/10.1007/s11263-016-0902-9.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
@@ -137,9 +136,9 @@
 3. Aerial Dataset
   + http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html, provided by WHU.
 
+<!--
 Welcome to contribute to this Repo!
 
-<!--
 Multi-view stereo for face recon
 [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bai_Deep_Facial_Non-Rigid_Multi-View_Stereo_CVPR_2020_paper.pdf) && [Github](https://github.com/zqbai-jeremy/DFNRMVS)
 --->
