@@ -22,6 +22,8 @@
 #### ICCV2021
 + Digging into Uncertainty in Self-supervised Multi-view Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Digging_Into_Uncertainty_ICCV_2021_supplemental.pdf)] [[Github](https://github.com/ToughStoneX/U-MVS)] 
 
+#### ArXiv paper
++ RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering [[paper](https://arxiv.org/abs/2203.03949v2)] [[Github](https://github.com/Boese0601/RC-MVSNet)]
 
 #### Journal Paper
 + SurRF: Unsupervised Multi-view Stereopsis by Learning Surface Radiance Field, T-PAMI [[paper](https://ieeexplore.ieee.org/document/9555381)]
@@ -44,11 +46,8 @@ Unsupervised Multi-View Stereo — An Emerging Trend [[Link](https://medium.com/
 + Semi-supervised stereo matching: sparse Lidar and photometric consistency
 + Unsupervised Learning of Stereo Matching: in an iterative manner using Left-Right consistency Check
 
--->
 
-
-
-#### Benchmark Performance
+#### Benchmark Performance (MVSNet backbone)
 
 |    Methods    | Acc. ↓  | Comp. ↓ | Overall ↓ | TnT@f-score ↑ |
 | :-----------: | :---: | :---: | :-----: | :---------: |
@@ -60,4 +59,7 @@ Unsupervised Multi-View Stereo — An Emerging Trend [[Link](https://medium.com/
 | COLMAP (Geo.) | 0.401 | 0.661 |  0.531  |    42.14    |
 | MVSNet (DTU)  | 0.396 | 0.527 |  0.462  |    43.48    |
 | MVSNet (BlendedMVS)  |   —   |   —   |    —    |    44.12    |
+
+
+-->
 
