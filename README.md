@@ -1,6 +1,9 @@
 ## Awesome-Learning-MVS (Methods and Datasets)
-
-[Update] Looking for PatchMatch-based MVS? 👉 [[Awesome-PatchMatch-MVS](https://github.com/XYZ-qiyh/Awesome-PatchMatch-MVS)]
+### Other similar collections
++ [Awesome-MVS1](https://github.com/walsvid/Awesome-MVS)
++ [Awesome-MVS2](https://github.com/krahets/awesome-mvs)
++ [PatchMatch Multi-view Stereo](https://github.com/XYZ-qiyh/PatchMatch-Multi-view-Stereo)
++ [Unsupervised Multi-view Stereo](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/UnsupMVS)
 
 ### Learning-based MVS Methods
 1. Volumetric methods (SurfaceNet)
