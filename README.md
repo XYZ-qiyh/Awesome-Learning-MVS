@@ -94,6 +94,7 @@
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 + Non-local Recurrent Regularization Networks for Multi-view Stereo [[paper](https://arxiv.org/abs/2110.06436)]
 + TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers [[paper](https://arxiv.org/abs/2111.14600)]  [[Github](https://github.com/MegviiRobot/TransMVSNet)]
++ MVSTER: Epipolar Transformer for Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2204.07346)] [[Github](https://github.com/JeffWang987/MVSTER)]
 
 
 
