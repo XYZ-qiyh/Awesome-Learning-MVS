@@ -68,7 +68,7 @@
 
 #### ICCV2021
 + 💻 AA-RMVSNet: Adaptive Aggregation Recurrent Multi-view Stereo Network [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_AA-RMVSNet_Adaptive_Aggregation_Recurrent_Multi-View_Stereo_Network_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wei_AA-RMVSNet_Adaptive_Aggregation_ICCV_2021_supplemental.pdf)] [[Github](https://github.com/QT-Zhu/AA-RMVSNet)]
-+ 💻 EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)] [[Github](https://github.com/Ascend/mindspore/tree/master/model_zoo/research/cv/eppmvsnet)]
++ EPP-MVSNet: Epipolar-Assembling Based Depth Prediction for Multi-View Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ma_EPP-MVSNet_Epipolar-Assembling_Based_Depth_Prediction_for_Multi-View_Stereo_ICCV_2021_paper.pdf)]
 + Just a Few Points are All You Need for Multi-view Stereo: A Novel Semi-supervised Learning Method for Multi-view Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Just_a_Few_Points_Are_All_You_Need_for_Multi-View_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_Just_a_Few_ICCV_2021_supplemental.pdf)]
 
 #### 3DV 2021
@@ -79,6 +79,7 @@
 + 💻 Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss [[paper](https://arxiv.org/abs/2201.01501)] [[Github](https://github.com/prstrive/UniMVSNet)]
 + 💻 IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2112.05126)] [[Github](https://github.com/FangjinhuaWang/IterMVS)]
 + 💻 MVS2D: Efficient Multi-view Stereo via Attention-Driven 2D Convolutions [[paper](https://arxiv.org/abs/2104.13325)] [[Github](https://github.com/zhenpeiyang/MVS2D)]
++ TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers [[paper](https://arxiv.org/abs/2111.14600)] [[Github](https://github.com/MegviiRobot/TransMVSNet)]
 
 #### Journal Paper
 
@@ -95,7 +96,6 @@
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 + Non-local Recurrent Regularization Networks for Multi-view Stereo [[paper](https://arxiv.org/abs/2110.06436)]
-+ TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers [[paper](https://arxiv.org/abs/2111.14600)]  [[Github](https://github.com/MegviiRobot/TransMVSNet)]
 + MVSTER: Epipolar Transformer for Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2204.07346)] [[Github](https://github.com/JeffWang987/MVSTER)]
 
 
