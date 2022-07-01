@@ -152,3 +152,8 @@ Multi-view stereo for face recon
 
 ### Update: WeChat Group
 <img src="/photo/WeChat_Group.jpg" width=270 height=585>
+
+<!--
+### 部分论文讲解
+如果想看经典MVS论文介绍，可以参照👉
+--->
