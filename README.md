@@ -21,7 +21,7 @@
 
 #### ECCV2018
 
-+ 💻 MVSNet: Depth Inference for Unstructured Multi-view Stereo [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf)] [[supp](https://yoyo000.github.io/papers/yao2018mvsnet_supp.pdf)] [[Github](https://github.com/YoYo000/MVSNet)] [[WeChat article](https://mp.weixin.qq.com/s/AQfpCHyXeRRSFPcRu_mUjA)]
++ 💻 MVSNet: Depth Inference for Unstructured Multi-view Stereo [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf)] [[supp](https://yoyo000.github.io/papers/yao2018mvsnet_supp.pdf)] [[Github](https://github.com/YoYo000/MVSNet)] 
 
 #### CVPR2019
 
@@ -39,12 +39,12 @@
 
 #### CVPR2020
 
-+ 💻 Cascade Cost Volume for High-Resolutoin Multi-View Stereo and Stereo Matching [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf)] [[Github](https://github.com/alibaba/cascade-stereo)] [[WeChat article](https://mp.weixin.qq.com/s/C8Gpg4eCqFnFWK6Wnu7lCw)]
++ 💻 Cascade Cost Volume for High-Resolutoin Multi-View Stereo and Stereo Matching [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf)] [[Github](https://github.com/alibaba/cascade-stereo)] 
 + 💻 Deep Stereo using Adaptive Thin Volume Representation with Uncertainty Awareness [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Deep_Stereo_Using_Adaptive_Thin_Volume_Representation_With_Uncertainty_Awareness_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Cheng_Deep_Stereo_Using_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/touristCheng/UCSNet)]
 
 + 💻 Cost Volume Pyramid Based Depth Inference for Multi-View Stereo [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Cost_Volume_Pyramid_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_Cost_Volume_Pyramid_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/JiayuYANG/CVP-MVSNet)]
 
-+ 💻 Fast-MVSNet: Sparse-to-Dense Multi-View Stereo with Learned Propagation and Gauss-Newton Refinement [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_Stereo_With_Learned_Propagation_and_Gauss-Newton_Refinement_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/svip-lab/FastMVSNet)] [[WeChat article](https://mp.weixin.qq.com/s/ePvgrIhYtYTR1sQWUn0XhQ)]
++ 💻 Fast-MVSNet: Sparse-to-Dense Multi-View Stereo with Learned Propagation and Gauss-Newton Refinement [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_Stereo_With_Learned_Propagation_and_Gauss-Newton_Refinement_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yu_Fast-MVSNet_Sparse-to-Dense_Multi-View_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/svip-lab/FastMVSNet)] 
 
 + Attention-Aware Multi-View Stereo [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Attention-Aware_Multi-View_Stereo_CVPR_2020_paper.pdf)]
 
@@ -123,7 +123,7 @@
   + A Multi-View Stereo Benchmark with High-Resolution Images and Multi-Camera Videos [[paper](https://www.eth3d.net/data/schoeps2017cvpr.pdf)] [[supp](https://www.eth3d.net/data/schoeps2017cvpr-supp.pdf)] [[website](https://www.eth3d.net/)] [[Github](https://github.com/ETH3D)]
 
 + **BlendedMVS** [CVPR2020]
-  + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)] [[WeChat article](https://mp.weixin.qq.com/s/PZ-G8W-cg5oSVLd_cfX92A)]
+  + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)] 
 
 + **GigaMVS** [T-PAMI2021]
   + GigaMVS: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction [[paper](https://ieeexplore.ieee.org/document/9547729)] [[website](http://www.gigamvs.com/)]
