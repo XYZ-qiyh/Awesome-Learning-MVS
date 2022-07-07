@@ -1,7 +1,9 @@
-## Unsupervised Learning MVS
+## Unsupervised/Self-supervised Learning Multi-view Stereo
+
+( 💻 means code available)
 
 #### CVPRW 2019
-+ Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency [[Project](https://tejaskhot.github.io/unsup_mvs/)] [[paper](https://tejaskhot.github.io/unsup_mvs/)] [[Github](https://github.com/tejaskhot/unsup_mvs)] (Central idea: a warping-based view synthesis loss, use the estimated depth map for image synthesis.)
++ 💻 Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency [[Project](https://tejaskhot.github.io/unsup_mvs/)] [[paper](https://tejaskhot.github.io/unsup_mvs/)] [[Github](https://github.com/tejaskhot/unsup_mvs)] (Central idea: a warping-based view synthesis loss, use the estimated depth map for image synthesis.)
 
 #### 3DV 2019
 + MVS2: Deep Unsupervised Multi-view Stereo with Multi-View Symmetry [[paper](https://ieeexplore.ieee.org/document/8885975)]
@@ -11,19 +13,20 @@
 
 
 #### ICIP 2021
-+ M3VSNet: Unsupervised multi-metric multi-view stereo network [[paper](https://ieeexplore.ieee.org/abstract/document/9506469)] [[Github](https://github.com/whubaichuan/M3VSNet)]
++ 💻 M3VSNet: Unsupervised multi-metric multi-view stereo network [[paper](https://ieeexplore.ieee.org/abstract/document/9506469)] [[Github](https://github.com/whubaichuan/M3VSNet)]
 
 #### AAAI 2021
-+ Self-supervised Multi-view Stereo via Effective Co-Segmentation and Data-Augmentation [[paper](https://www.aaai.org/AAAI21Papers/AAAI-2549.XuH.pdf)] [[Github](https://github.com/ToughStoneX/Self-Supervised-MVS)]
++ 💻 Self-supervised Multi-view Stereo via Effective Co-Segmentation and Data-Augmentation [[paper](https://www.aaai.org/AAAI21Papers/AAAI-2549.XuH.pdf)] [[Github](https://github.com/ToughStoneX/Self-Supervised-MVS)]
 
 #### CVPR 2021
-+ Self-supervised Learning of Depth Inference for Multi-view Stereo [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Self-Supervised_Learning_of_Depth_Inference_for_Multi-View_Stereo_CVPR_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yang_Self-Supervised_Learning_of_CVPR_2021_supplemental.pdf)] [[Github](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)]
++ 💻 Self-supervised Learning of Depth Inference for Multi-view Stereo [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Self-Supervised_Learning_of_Depth_Inference_for_Multi-View_Stereo_CVPR_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Yang_Self-Supervised_Learning_of_CVPR_2021_supplemental.pdf)] [[Github](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)]
 
 #### ICCV2021
-+ Digging into Uncertainty in Self-supervised Multi-view Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Digging_Into_Uncertainty_ICCV_2021_supplemental.pdf)] [[Github](https://github.com/ToughStoneX/U-MVS)] 
++ 💻 Digging into Uncertainty in Self-supervised Multi-view Stereo [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Digging_Into_Uncertainty_in_Self-Supervised_Multi-View_Stereo_ICCV_2021_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Xu_Digging_Into_Uncertainty_ICCV_2021_supplemental.pdf)] [[Github](https://github.com/ToughStoneX/U-MVS)] 
 
-#### ArXiv paper
+#### ECCV2022
 + RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering [[paper](https://arxiv.org/abs/2203.03949v2)] [[Github](https://github.com/Boese0601/RC-MVSNet)]
++ KD-MVS: Knowledge Distillation Based Self-supervised Learning for Multi-view Stereo [[Project](https://dingyikang.github.io/kdmvs.github.io/)]
 
 #### Journal Paper
 + SurRF: Unsupervised Multi-view Stereopsis by Learning Surface Radiance Field, T-PAMI [[paper](https://ieeexplore.ieee.org/document/9555381)]
