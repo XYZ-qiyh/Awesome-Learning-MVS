@@ -5,6 +5,10 @@
 + [PatchMatch Multi-view Stereo](https://github.com/XYZ-qiyh/PatchMatch-Multi-view-Stereo)
 + [Unsupervised Multi-view Stereo](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/UnsupMVS)
 
+<img src="/photo/MVS_tags_new.png" width=280>
+
+---
+
 ### Learning-based MVS Methods
 1. Volumetric methods (SurfaceNet)
 2. Depthmap based methods (MVSNet/R-MVSNet and so on)
