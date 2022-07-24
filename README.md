@@ -5,7 +5,9 @@
 + [PatchMatch Multi-view Stereo](https://github.com/XYZ-qiyh/PatchMatch-Multi-view-Stereo)
 + [Unsupervised Multi-view Stereo](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/UnsupMVS)
 
+<!--
 <img src="/photo/MVS_tags_new.png" width=280>
+-->
 
 ---
 
@@ -94,6 +96,7 @@
 + MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo. IEEE TIP [[paper](https://ieeexplore.ieee.org/document/9115828)]
 + HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images. IEEE Access [[paper](https://ieeexplore.ieee.org/document/9319163)]
 + 💻 AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
++ Learning Inverse Depth Regression for Pixelwise Visibility-Aware Multi-View Stereo Networks. IJCV [[paper](https://trebuchet.public.springernature.app/get_content/79aa1569-1998-49c9-b675-acb305d056a2)]
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation. IEEE T-PAMI [[ArXiv](https://arxiv.org/abs/2006.02535)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/9233988)]
