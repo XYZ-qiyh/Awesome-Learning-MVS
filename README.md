@@ -91,6 +91,9 @@
 + Efficient Multi-View Stereo by Iterative Dynamic Cost Volume [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Efficient_Multi-View_Stereo_by_Iterative_Dynamic_Cost_Volume_CVPR_2022_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Wang_Efficient_Multi-View_Stereo_CVPR_2022_supplemental.pdf)]
 + 💻 MVS2D: Efficient Multi-view Stereo via Attention-Driven 2D Convolutions [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_MVS2D_Efficient_Multi-View_Stereo_via_Attention-Driven_2D_Convolutions_CVPR_2022_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Yang_MVS2D_Efficient_Multi-View_CVPR_2022_supplemental.pdf)] [[Github](https://github.com/zhenpeiyang/MVS2D)]
 
+#### ECCV 2022
++ MVSTER: Epipolar Transformer for Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2204.07346)] [[Github](https://github.com/JeffWang987/MVSTER)]
+
 #### Journal Paper
 
 + MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo. IEEE TIP [[paper](https://ieeexplore.ieee.org/document/9115828)]
@@ -107,7 +110,6 @@
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 + Non-local Recurrent Regularization Networks for Multi-view Stereo [[paper](https://arxiv.org/abs/2110.06436)]
-+ MVSTER: Epipolar Transformer for Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2204.07346)] [[Github](https://github.com/JeffWang987/MVSTER)]
 
 
 
