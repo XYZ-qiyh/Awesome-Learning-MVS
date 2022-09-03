@@ -3,7 +3,7 @@
 1. MVSNet, ECCV18' 【[论文讲解](https://mp.weixin.qq.com/s/AQfpCHyXeRRSFPcRu_mUjA)】【[实战](https://mp.weixin.qq.com/s/ee7-jr8QN8D2MSTyDNeWWw)】
 2. R-MVSNet, CVPR19' 【[论文讲解](https://mp.weixin.qq.com/s/U_SWajwwmncFoQZff6mOwg)】【[实战](https://mp.weixin.qq.com/s/bHt1gspTeG1221g5e6sx2Q)】
 3. CasMVSNet, CVPR20'【[论文讲解](https://mp.weixin.qq.com/s/C8Gpg4eCqFnFWK6Wnu7lCw)】【[实战](https://mp.weixin.qq.com/s/C8Gpg4eCqFnFWK6Wnu7lCw)】
-4. Vis-MVSNet, BMVC20'【[论文讲解]()】【[代码](https://github.com/jzhangbs/Vis-MVSNet)】
+4. Vis-MVSNet, BMVC20'【[论文讲解](https://mp.weixin.qq.com/s/cvXxbEPbhJT_6x7vcxfERQ)】【[代码](https://github.com/jzhangbs/Vis-MVSNet)】
 5. PatchMatchNet, CVPR21'【[论文讲解](https://mp.weixin.qq.com/s/vR6Qz68we082kpZy5-XzEw)】【[代码](https://github.com/FangjinhuaWang/PatchmatchNet)】
 
 
