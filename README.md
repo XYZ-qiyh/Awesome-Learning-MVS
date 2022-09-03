@@ -1,9 +1,10 @@
 ## Awesome-Learning-MVS (Methods and Datasets)
+<!--
 ### Content
 + [Learning-based MVS Methods](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/edit/MVS/README.md#learning-based-mvs-methods)
 + [Multi-view Stereo Benchmark](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/edit/MVS/README.md#multi-view-stereo-benchmark)
-
 ---
+--->
 
 ### Learning-based MVS Methods
 1. Volumetric methods (SurfaceNet)
