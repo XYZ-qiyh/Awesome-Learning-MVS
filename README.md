@@ -1,13 +1,7 @@
 ## Awesome-Learning-MVS (Methods and Datasets)
-### Other similar collections
-+ [Awesome-MVS1](https://github.com/walsvid/Awesome-MVS)
-+ [Awesome-MVS2](https://github.com/krahets/awesome-mvs)
-+ [PatchMatch Multi-view Stereo](https://github.com/XYZ-qiyh/PatchMatch-Multi-view-Stereo)
-+ [Unsupervised Multi-view Stereo](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/UnsupMVS)
-
-<!--
-<img src="/photo/MVS_tags_new.png" width=280>
--->
+### Content
++ [Learning-based MVS Methods](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/edit/MVS/README.md#learning-based-mvs-methods)
++ [Multi-view Stereo Benchmark](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/edit/MVS/README.md#multi-view-stereo-benchmark)
 
 ---
 
@@ -155,6 +149,16 @@
 
 3. Aerial Dataset
   + http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html, provided by WHU.
+
+
+
+### Other similar collections
++ [Awesome-MVS1](https://github.com/walsvid/Awesome-MVS)
++ [Awesome-MVS2](https://github.com/krahets/awesome-mvs)
++ [PatchMatch Multi-view Stereo](https://github.com/XYZ-qiyh/PatchMatch-Multi-view-Stereo)
++ [Unsupervised Multi-view Stereo](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/UnsupMVS)
+
+
 
 <!--
 Welcome to contribute to this Repo!
