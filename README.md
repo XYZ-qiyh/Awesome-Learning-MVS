@@ -1,10 +1,5 @@
 ## Awesome-Learning-MVS (Methods and Datasets)
-<!--
-### Content
-+ [Learning-based MVS Methods](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/edit/MVS/README.md#learning-based-mvs-methods)
-+ [Multi-view Stereo Benchmark](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/edit/MVS/README.md#multi-view-stereo-benchmark)
----
---->
+
 
 ### Learning-based MVS Methods
 1. Volumetric methods (SurfaceNet)
@@ -90,8 +85,6 @@
 + 💻 MVSTER: Epipolar Transformer for Efficient Multi-View Stereo [[paper](https://arxiv.org/abs/2204.07346)] [[Github](https://github.com/JeffWang987/MVSTER)]
 + 💻 Multiview Stereo with Cascaded Epipolar RAFT [[paper](https://arxiv.org/abs/2205.04502)] [[Github](https://github.com/princeton-vl/CER-MVS)]
 
-*To Be Continued*
----
 
 #### Journal Paper
 
@@ -110,6 +103,8 @@
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 + Non-local Recurrent Regularization Networks for Multi-view Stereo [[paper](https://arxiv.org/abs/2110.06436)]
 
+*To Be Continued*
+---
 
 
 ### Multi-view Stereo Benchmark
@@ -166,10 +161,11 @@ Welcome to contribute to this Repo!
 
 Multi-view stereo for face recon
 [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bai_Deep_Facial_Non-Rigid_Multi-View_Stereo_CVPR_2020_paper.pdf) && [Github](https://github.com/zqbai-jeremy/DFNRMVS)
---->
+
 
 ### Update: WeChat Group
 <img src="/photo/WeChat_Group.jpg" width=270 height=585>
+--->
 
 <!----->
 ### 部分论文讲解
