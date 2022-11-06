@@ -96,12 +96,18 @@
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation. IEEE T-PAMI [[ArXiv](https://arxiv.org/abs/2006.02535)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/9233988)]
 + Deep Learning for Multi-view Stereo via Plane Sweep: A Survey [[paper](https://arxiv.org/abs/2106.15328)]
-+ Multi-view stereo in the Deep Learning Era: A comprehensive revfiew [[paper](https://www.sciencedirect.com/science/article/pii/S0141938221001062)]
++ Multi-view stereo in the Deep Learning Era: A comprehensive review [[paper](https://www.sciencedirect.com/science/article/pii/S0141938221001062)]
 
 #### ArXiv Paper
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 + Non-local Recurrent Regularization Networks for Multi-view Stereo [[paper](https://arxiv.org/abs/2110.06436)]
+
+
+#### PhD Thesis
++ 🎓 [Robust Methods for Accurate and Efficient 3D Modeling from Unstructured Imagery](https://www.research-collection.ethz.ch/handle/20.500.11850/295763), Johannes L. Schönberger@ETH Zürich
++ 🎓 Learning Large-scale Multi-view Stereopsis, Yao Yao@HKUST
+
 
 *To Be Continued*
 ---
