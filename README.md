@@ -93,24 +93,26 @@
 + 💻 AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
 + Learning Inverse Depth Regression for Pixelwise Visibility-Aware Multi-View Stereo Networks. International Journal of Computer Vision [[paper](https://trebuchet.public.springernature.app/get_content/79aa1569-1998-49c9-b675-acb305d056a2)]
 
+
+### ~~To Be Continued~~
+
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation. IEEE T-PAMI [[ArXiv](https://arxiv.org/abs/2006.02535)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/9233988)]
 + Deep Learning for Multi-view Stereo via Plane Sweep: A Survey [[paper](https://arxiv.org/abs/2106.15328)]
 + Multi-view stereo in the Deep Learning Era: A comprehensive review [[paper](https://www.sciencedirect.com/science/article/pii/S0141938221001062)]
 
+
+<!--
 #### ArXiv Paper
 + PVSNet: Pixelwise Visibility-Aware Multi-View Stereo Network [[paper](https://arxiv.org/abs/2007.07714)]
 + DDR-Net: Learning Multi-Stage Multi-View Stereo With Dynamic Depth Range [[paper](https://arxiv.org/abs/2103.14275)]  [[Github](https://github.com/Tangshengku/DDR-Net)]
 + Non-local Recurrent Regularization Networks for Multi-view Stereo [[paper](https://arxiv.org/abs/2110.06436)]
-
+--->
 
 #### PhD Thesis
 + 🎓 [Robust Methods for Accurate and Efficient 3D Modeling from Unstructured Imagery](https://www.research-collection.ethz.ch/handle/20.500.11850/295763), Johannes L. Schönberger@ETH Zürich
 + 🎓 Learning Large-scale Multi-view Stereopsis, Yao Yao@HKUST
 
-
-*To Be Continued*
----
 
 
 ### Multi-view Stereo Benchmark
@@ -161,19 +163,11 @@
 + [Unsupervised Multi-view Stereo](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/UnsupMVS)
 + [multi-view-3d-reconstruction](https://github.com/XYZ-qiyh/multi-view-3d-reconstruction)
 
-
-<!--
-Welcome to contribute to this Repo!
-
-Multi-view stereo for face recon
-[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bai_Deep_Facial_Non-Rigid_Multi-View_Stereo_CVPR_2020_paper.pdf) && [Github](https://github.com/zqbai-jeremy/DFNRMVS)
+### Future works (Personal Perspective)
++ ultra-large-scale 3D Reconstruction: [GigaMVS](https://github.com/THU-luvision/GigaMVS)
++ Semantic multi-view 3D Reconstruction
 
 
-### Update: WeChat Group
-<img src="/photo/WeChat_Group.jpg" width=270 height=585>
---->
-
-<!----->
 ### 部分论文讲解
 如果想看经典MVS论文介绍，可以参照👉[中文论文讲解](MVS_Summary.md)
 
