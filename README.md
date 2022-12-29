@@ -29,10 +29,10 @@
 
 #### ECCV2022
 + RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering [[paper](https://arxiv.org/abs/2203.03949v2)] [[Github](https://github.com/Boese0601/RC-MVSNet)]
-+ KD-MVS: Knowledge Distillation Based Self-supervised Learning for Multi-view Stereo [[Project](https://dingyikang.github.io/kdmvs.github.io/)]
++ KD-MVS: Knowledge Distillation Based Self-supervised Learning for Multi-view Stereo [[paper](https://arxiv.org/abs/2207.10425)] [[Github](https://github.com/megvii-research/kd-mvs)]
 
 #### Journal Paper
-+ SurRF: Unsupervised Multi-view Stereopsis by Learning Surface Radiance Field, T-PAMI [[paper](https://ieeexplore.ieee.org/document/9555381)]
++ SurRF: Unsupervised Multi-view Stereopsis by Learning Surface Radiance Field, T-PAMI 2021 [[paper](https://ieeexplore.ieee.org/document/9555381)]
 
 #### Blog
 Unsupervised Multi-View Stereo — An Emerging Trend [[Link](https://medium.com/analytics-vidhya/unsupervised-multi-view-stereo-an-emerging-trend-4d3034e23e9e)]
