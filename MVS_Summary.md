@@ -8,9 +8,8 @@
 
 
 
-**数据处理/数据集**
+**数据集**
 
-+ GT深度图数据生成, TODO
 + BlendedMVS数据集, CVPR20'【[论文讲解](https://mp.weixin.qq.com/s/PZ-G8W-cg5oSVLd_cfX92A)】【[下载](https://github.com/YoYo000/BlendedMVS)】
 
 
