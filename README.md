@@ -92,6 +92,7 @@
 + HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images. IEEE Access [[paper](https://ieeexplore.ieee.org/document/9319163)]
 + 💻 AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
 + Learning Inverse Depth Regression for Pixelwise Visibility-Aware Multi-View Stereo Networks. International Journal of Computer Vision [[paper](https://trebuchet.public.springernature.app/get_content/79aa1569-1998-49c9-b675-acb305d056a2)]
++ Sparse prior guided deep multi-view stereo. Computers & Graphics [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849322001157)]
 
 
 ### ~~To Be Continued~~
