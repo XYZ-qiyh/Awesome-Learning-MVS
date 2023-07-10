@@ -33,6 +33,8 @@
 
 #### Journal Paper
 + SurRF: Unsupervised Multi-view Stereopsis by Learning Surface Radiance Field, T-PAMI 2021 [[paper](https://ieeexplore.ieee.org/document/9555381)]
++ Geometric Prior-Guided Self-Supervised Learning for Multi-View Stereo, Remote Sensing 2023 [[paper](https://www.mdpi.com/2072-4292/15/8/2109)]
+
 
 #### Blog
 Unsupervised Multi-View Stereo — An Emerging Trend [[Link](https://medium.com/analytics-vidhya/unsupervised-multi-view-stereo-an-emerging-trend-4d3034e23e9e)]
