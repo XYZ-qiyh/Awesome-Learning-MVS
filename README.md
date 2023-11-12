@@ -140,8 +140,8 @@
 + **GigaMVS** [T-PAMI2021]
   + GigaMVS: A Benchmark for Ultra-large-scale Gigapixel-level 3D Reconstruction [[paper](https://ieeexplore.ieee.org/document/9547729)] [[website](http://www.gigamvs.com/)]
 
-+ **Multi-sensor large-scale dataset for multi-view 3D reconstruction** [ArXiv2022]
-  + Multi-sensor large-scale dataset for multi-view 3D reconstruction [[paper](https://arxiv.org/pdf/2203.06111.pdf)] [[website](http://adase.group/3ddl/projects/sk3d)]
++ **Multi-sensor large-scale dataset for multi-view 3D reconstruction** [CVPR2023]
+  + Multi-sensor large-scale dataset for multi-view 3D reconstruction [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Voynov_Multi-Sensor_Large-Scale_Dataset_for_Multi-View_3D_Reconstruction_CVPR_2023_paper.pdf)] [[website](https://skoltech3d.appliedai.tech/)]
 
 
 ### Large-scale Real-world Scenes
@@ -161,7 +161,7 @@
 + [Awesome-MVS1](https://github.com/walsvid/Awesome-MVS)
 + [Awesome-MVS2](https://github.com/krahets/awesome-mvs)
 + [PatchMatch Multi-view Stereo](https://github.com/XYZ-qiyh/PatchMatch-Multi-view-Stereo)
-+ [Unsupervised Multi-view Stereo](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/tree/UnsupMVS)
++ [Unsupervised Multi-view Stereo](https://github.com/XYZ-qiyh/Awesome-Learning-MVS/blob/main/UnsupMVS.md)
 + [multi-view-3d-reconstruction](https://github.com/XYZ-qiyh/multi-view-3d-reconstruction)
 
 ### Future works (Personal Perspective)
